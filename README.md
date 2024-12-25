@@ -116,13 +116,21 @@ o	Join all five tables without repeating fields.
 ________________________________________
 ## Expected Outputs
 Output 1:
+
 A unified dataset consolidating information from all five tables.
+
 Output 2:
+
 Mismatched data details identified using joins.
+
 Output 3:
+
 Filter and display customers with high CIBIL scores.
+
 Output 4:
+
 Filter and display customers based on types (Home, Office, Corporate).
+
 ________________________________________
 ## Additional Features
 •	Stored Procedures:
