@@ -1,12 +1,16 @@
 # Smart Loan Manager (Loan Management System) using MySQL
 ________________________________________
-##Project Objective
+## Project Objective
 The objective of the Smart Loan Manager is to create a comprehensive, dynamic loan management system that streamlines data analysis, interest calculations, customer categorization, and decision-making processes. The system integrates information from multiple datasets, applies automated triggers, and filters key insights to provide actionable outputs for efficient loan and customer management.
 ## Key goals include:
 •	Categorizing customers based on income and property area.
+
 •	Automating interest calculations and CIBIL score-based decision-making.
+
 •	Consolidating data from multiple sources into a unified structure.
+
 •	Providing filtered insights through procedures for better loan tracking and management.
+
 ________________________________________
 ## Datasets
 1.	Customer Income Status
